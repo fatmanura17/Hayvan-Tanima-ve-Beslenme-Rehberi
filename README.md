@@ -13,7 +13,7 @@ Sistem, görüntü sınıflandırma (Image Classification) problemini çözmek i
 * **Model Formatı:** .h5, .tflite, JSON (Bilgi bankası)
 
 ## 📊 Performans
-* **Doğruluk Oranı (Accuracy):** %90.2
+* **Doğruluk Oranı (Accuracy):** %81.0
 * **Güven Eşiği (Confidence Threshold):** %70
 
 ## 📂 Dosya Yapısı
