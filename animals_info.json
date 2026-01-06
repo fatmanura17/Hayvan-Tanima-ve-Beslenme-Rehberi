@@ -1,0 +1,422 @@
+{
+  "antelope": {
+    "isim": "Antilop",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "bat": {
+    "isim": "Yarasa",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "bear": {
+    "isim": "Ayı",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "bee": {
+    "isim": "Arı",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "beetle": {
+    "isim": "Böcek",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "bison": {
+    "isim": "Bizon",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "boar": {
+    "isim": "Yaban Domuzu",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "butterfly": {
+    "isim": "Kelebek",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "cat": {
+    "isim": "Kedi",
+    "beslenme": "Etçildir. Kuru mama, yaş mama veya haşlanmış et sever.",
+    "detay": "Yetişkin kedilere süt verilmemelidir, laktozu sindiremezler."
+  },
+  "caterpillar": {
+    "isim": "Tırtıl",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "chimpanzee": {
+    "isim": "Şempanze",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "cockroach": {
+    "isim": "Hamam Böceği",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "cow": {
+    "isim": "İnek",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "coyote": {
+    "isim": "Çakal",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "crab": {
+    "isim": "Yengeç",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "crow": {
+    "isim": "Karga",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "deer": {
+    "isim": "Geyik",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "dog": {
+    "isim": "Köpek",
+    "beslenme": "Hem etçil hem otçuldur. Kaliteli kuru mama, haşlanmış pirinç, tavuk ve havuç yiyebilirler.",
+    "detay": "DİKKAT: Çikolata, soğan, sarımsak ve üzüm köpekler için zehirlidir. Asla verilmemelidir!"
+  },
+  "dolphin": {
+    "isim": "Yunus",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "donkey": {
+    "isim": "Eşek",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "dragonfly": {
+    "isim": "Yusufçuk",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "duck": {
+    "isim": "Ördek",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "eagle": {
+    "isim": "Şahin",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "elephant": {
+    "isim": "Fil",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "flamingo": {
+    "isim": "Flamingo",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "fly": {
+    "isim": "Sinek",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "fox": {
+    "isim": "Tilki",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "goat": {
+    "isim": "Keçi",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "goldfish": {
+    "isim": "Japon balığı",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "goose": {
+    "isim": "Kaz",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "gorilla": {
+    "isim": "Goril",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "grasshopper": {
+    "isim": "Çekirge",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "hamster": {
+    "isim": "Hamster",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "hare": {
+    "isim": "Tavşan",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "hedgehog": {
+    "isim": "Kirpi",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "hippopotamus": {
+    "isim": "Hipopotamus",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "horse": {
+    "isim": "At",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "hummingbird": {
+    "isim": "Hummingbird",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "hyena": {
+    "isim": "Hyena",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "jellyfish": {
+    "isim": "Jellyfish",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "kangaroo": {
+    "isim": "Kangaroo",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "koala": {
+    "isim": "Koala",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "ladybugs": {
+    "isim": "Ladybugs",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "leopar": {
+    "isim": "Leopar",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "lion": {
+    "isim": "Lion",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "lizard": {
+    "isim": "Lizard",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "lobster": {
+    "isim": "Lobster",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "mosquito": {
+    "isim": "Mosquito",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "moth": {
+    "isim": "Moth",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "mouse": {
+    "isim": "Mouse",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "octopus": {
+    "isim": "Octopus",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "orangutan": {
+    "isim": "Orangutan",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "otter": {
+    "isim": "Otter",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "owl": {
+    "isim": "Owl",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "ox": {
+    "isim": "Ox",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "panda": {
+    "isim": "Panda",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "parrot": {
+    "isim": "Parrot",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "pelecaniformes": {
+    "isim": "Pelecaniformes",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "penguin": {
+    "isim": "Penguin",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "pig": {
+    "isim": "Pig",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "pigeon": {
+    "isim": "Pigeon",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "porcupine": {
+    "isim": "Porcupine",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "possum": {
+    "isim": "Possum",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "raccoon": {
+    "isim": "Raccoon",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "rat": {
+    "isim": "Rat",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "rhinoceros": {
+    "isim": "Rhinoceros",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "seahorse": {
+    "isim": "Seahorse",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "seal": {
+    "isim": "Seal",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "shark": {
+    "isim": "Shark",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "sheep": {
+    "isim": "Sheep",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "snake": {
+    "isim": "Snake",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "sparrow": {
+    "isim": "Sparrow",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "squid": {
+    "isim": "Squid",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "squirrel": {
+    "isim": "Squirrel",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "starfish": {
+    "isim": "Starfish",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "swan": {
+    "isim": "Swan",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "tiger": {
+    "isim": "Tiger",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "turkey": {
+    "isim": "Turkey",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "turtle": {
+    "isim": "Turtle",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "whale": {
+    "isim": "Whale",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "wolf": {
+    "isim": "Wolf",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "wombat": {
+    "isim": "Wombat",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "woodpecker": {
+    "isim": "Woodpecker",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  },
+  "zebra": {
+    "isim": "Zebra",
+    "beslenme": "Beslenme bilgisi eklenecek...",
+    "detay": "Bu hayvan hakkında detaylı bilgi yakında eklenecek."
+  }
+}
